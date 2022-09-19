@@ -18,4 +18,4 @@
 * 기본적인 연산 파일 만들기 triangle, circle, average
 * f-string formatting
 * 삼항 연산자 a if b else c
-* 
+* if 문 각종 연산자 복습.
