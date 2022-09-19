@@ -17,4 +17,5 @@
 * "\_\_dict__" 를 사용해서 네임 스페이스 반환.  
 * 기본적인 연산 파일 만들기 triangle, circle, average
 * f-string formatting
+* 삼항 연산자 a if b else c
 * 

@@ -1,11 +1,11 @@
 # average.py
 
-if __name__ == "__main__":
-    print("input kor eng mat : ")
-    kor = int(input())
-    eng = int(input())
-    mat = int(input())
+if __name__ == '__main__':
+    print("input number of man  : ")
+    man = int(input())
+    print("input number of woman  : ")
+    woman = int(input())
+    manRatio = man / (man + woman) * 100
+    womanRatio = woman / (man + woman) * 100
 
-    sum = kor + eng + mat
-    average = sum /3
-    print(f"sum : {sum:.2f} area : {average:.2f}")
+    print(f'manRatio : {manRatio:.2f} %  \t womanRatio : {womanRatio:.2f} %')
