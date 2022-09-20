@@ -24,3 +24,7 @@
 - - -
 * 파이썬 특징 복습
 * maxMidmin 작성. input().split() 사용. 
+* 야구게임 baseball 파이썬으로 작성.
+* 파이썬에서의 shallow copy deep copy 
+* 대입 연산자는 shallow [:] copy() 도 shallow 
+* copy.deepcopy() 는 deepcopy.
