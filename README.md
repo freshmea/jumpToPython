@@ -26,5 +26,7 @@
 * maxMidmin 작성. input().split() 사용. 
 * 야구게임 baseball 파이썬으로 작성.
 * 파이썬에서의 shallow copy deep copy 
-* 대입 연산자는 shallow [:] copy() 도 shallow 
-* copy.deepcopy() 는 deepcopy.
+* 대입 연산자는 shallow 
+* [:] copy() 내부 원소는 shallow 지만 그 자체는 다른 주소. 
+* copy.deepcopy() 는 내부 원소까지 deepcopy.
+* mutable 한 객체 까지 복사 하지는 않는다.
