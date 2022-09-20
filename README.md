@@ -29,4 +29,6 @@
 * 대입 연산자는 shallow 
 * [:] copy() 내부 원소는 shallow 지만 그 자체는 다른 주소. 
 * copy.deepcopy() 는 내부 원소까지 deepcopy.
-* mutable 한 객체 까지 복사 하지는 않는다.
+* mutable 한 객체 까지 복사 하지는 않는다.정
+* wsl2 환경에서 pycharm 설치 
+* interpreter 설
