@@ -1,18 +1,17 @@
 import random
 
-if __name__ == "__main__":
-    # 정답 생성.
+if __name__ == '__main__':
+    # 정답 생성
     question = []
     while len(question) < 3:
-        tmp = random.randint(0, 10)
+        tmp = random.randint(1, 9)
         if tmp not in question:
             question.append(tmp)
 
     count = 1
     print(question)
     while True:
-        strike = 0
-        ball = 0
+        strike = ball = 0
 
         # 입력값
         print('Input Number (a, b, c):')
