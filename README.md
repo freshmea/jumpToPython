@@ -19,3 +19,8 @@
 * f-string formatting
 * 삼항 연산자 a if b else c
 * if 문 각종 연산자 복습.
+- - -
+## study2
+- - -
+* 파이썬 특징 복습
+* maxMidmin 작성. input().split() 사용. 
