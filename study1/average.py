@@ -8,4 +8,4 @@ if __name__ == "__main__":
 
     sum = kor + eng + mat
     average = sum /3
-    print(f"sum : {sum:.2f} area : {average:.2f}")
+    print(f"sum : {sum:.2f} average : {average:.2f}")
