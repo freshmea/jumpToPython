@@ -37,4 +37,7 @@
 * tuple 설명 기본.
 * packing 과 unpacking 추가 설명.
 * https://wikidocs.net/22801
-* set
+* set 설명.
+* gradCount program dictionary 활용.
+* wordCount program file open 활용.
+* dictionary 안의 value 값으로 크기 비교.
