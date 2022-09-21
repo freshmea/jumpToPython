@@ -8,8 +8,10 @@ if __name__ == '__main__':
             line = f.readline()
             if not line:
                 break
-
             # 내용 확인 및 딕셔너리 Count 추가
+            for char in line:
+                if char in "(),\"":
+                    line = line.replace(char, '')
             for word in line.split():
                 if word in wordCount:
                     wordCount[word] += 1
@@ -19,11 +21,12 @@ if __name__ == '__main__':
     print(wordCount)
     print(len(wordCount))
 
+
     # maxS = max(wordCount.items(),key=lambda x: x[1])
 
     def func(da):
         return da[1]
+
+
     maxS = max(wordCount.items(), key=func)
     print(maxS)
-
-
