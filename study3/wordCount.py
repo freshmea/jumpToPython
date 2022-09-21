@@ -19,7 +19,7 @@ if __name__ == '__main__':
     print(wordCount)
     print(len(wordCount))
 
-    maxS = max(wordCount.items(),key=lambda x: x[1])
+    # maxS = max(wordCount.items(),key=lambda x: x[1])
 
     def func(da):
         return da[1]

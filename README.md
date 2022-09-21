@@ -41,3 +41,6 @@
 * gradCount program dictionary 활용.
 * wordCount program file open 활용.
 * dictionary 안의 value 값으로 크기 비교.
+* python 으로 server client TCP 사용.
+* https://realpython.com/python-sockets/ 참고.
+* 
