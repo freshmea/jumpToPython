@@ -30,3 +30,11 @@
 * [:] copy() 내부 원소는 shallow 지만 그 자체는 다른 주소. 
 * copy.deepcopy() 는 내부 원소까지 deepcopy.
 * mutable 한 객체 까지 복사 하지는 않는다.
+- - -
+## study3
+- - -
+* list 복습 list comprehension
+* tuple 설명 기본.
+* packing 과 unpacking 추가 설명.
+* https://wikidocs.net/22801
+* set
