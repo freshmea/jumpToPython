@@ -43,4 +43,15 @@
 * dictionary 안의 value 값으로 크기 비교.
 * python 으로 server client TCP 사용.
 * https://realpython.com/python-sockets/ 참고.
-* 
+- - -
+## study4
+- - -
+* sum find 함수 작성
+* 파라미터로 변수 받을 때의 주의 사항( 레퍼런스 와 포인터로 이해)
+* 전역 변수 사용 global
+* 클래스 선언
+* 클래스 멤버의 private 설정 __ 과 _ 의 차이
+* https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=amethyst_lee&logNo=221889506975
+( 참고. )
+* 상속 account Minus_account 만들기.
+* 데코레이터 사용. abstractmethod, staticmethod, classmethod
