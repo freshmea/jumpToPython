@@ -1,6 +1,4 @@
 # from shape import *
-
-import pickle
 from rectangle import Rectangle
 from circle import Circle
 
@@ -41,16 +39,6 @@ if __name__ == '__main__':
     shapes.append(Circle(0, 0, 5))
     shapes.append(Circle(100, 100, 10))
     shapes.append(Rectangle(50, 50, 5, 5))
-
-    f = open("pickle_data.dat", 'wb')
-    pickle.dump(shapes, f)  # 객체를 그대로 저장하고 불러올 수 있다.
-    f.close()
-
-    f = open('pickle_data.dat', 'rb')
-    data = pickle.load(f)
-    print(data)
-    print_shapes3(data)
-
 
     for s in shapes:
         print_area(s)

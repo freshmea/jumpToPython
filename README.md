@@ -63,3 +63,9 @@
 http://daplus.net/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%95%A8%EC%88%98-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9/
   (참고)
 * account.py 작성.
+* __변수 와 _변수 의 차이점. private 접근.
+* @property @name.setter 로 private 변수 접근.
+* 패키지 만들기 __init__.py 의 역할
+* 예외 처리 raise try: except : ... account2.py
+* 내장함수( abs, all, any, chr, odr, divmod, enumerate, eval, filter hex, id, input, int, isinstace, issubclass, len, list, map, max, min, oct, open, pow, range, round, sorted, str, sum, tuple, type, zip)
+* 라이브러리( sys, picke, os, shutil, glob, tempfile, time, calendar, random, webbrowser, threading)
