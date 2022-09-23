@@ -55,3 +55,11 @@
 ( 참고. )
 * 상속 account Minus_account 만들기.
 * 데코레이터 사용. abstractmethod, staticmethod, classmethod
+- - -
+## study5
+- - -
+* function overloading 파이썬에서는 기본적으로 안됨. 
+* 비슷한 방식의 코딩은 디폴트 인자를 사용하거나 @dispatch 데코레이터를 사용.
+http://daplus.net/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%95%A8%EC%88%98-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9/
+  (참고)
+* account.py 작성.
