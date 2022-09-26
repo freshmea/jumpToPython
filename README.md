@@ -74,4 +74,7 @@ http://daplus.net/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%95%A8%EC%88%98-%EC%98%A
 - - -
 * 정규표현식 
 * 몇가지 예제, 파일 입출력, 조건식과 더하기 문제. 
-* 
+* os.path.isdir os.path.isfile 함수가 제대로 동작 하지 않음... 이유 모름.
+* html 문법 분석 xml.etree.ElementTree 사용.
+* xml Element 를 이용해서 html 문서 작성하기. testXml3.py
+* 기타 문제 풀기.
