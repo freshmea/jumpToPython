@@ -69,3 +69,9 @@ http://daplus.net/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%95%A8%EC%88%98-%EC%98%A
 * 예외 처리 raise try: except : ... account2.py
 * 내장함수( abs, all, any, chr, odr, divmod, enumerate, eval, filter hex, id, input, int, isinstace, issubclass, len, list, map, max, min, oct, open, pow, range, round, sorted, str, sum, tuple, type, zip)
 * 라이브러리( sys, picke, os, shutil, glob, tempfile, time, calendar, random, webbrowser, threading)
+- - -
+## study6
+- - -
+* 정규표현식 
+* 몇가지 예제, 파일 입출력, 조건식과 더하기 문제. 
+* 
