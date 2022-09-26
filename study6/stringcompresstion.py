@@ -2,6 +2,7 @@ def compresstion_str(data):
     temp_c = ''
     cnt = 0
     out = ''
+
     for c in data:
         if temp_c == c:
             cnt += 1
